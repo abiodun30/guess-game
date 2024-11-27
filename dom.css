@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+button{
+    width: 100px;
+    padding: 10px;
+}
+input{
+    width: 100px;
+    padding: 10px;
+}
+.container{
+    margin-top: 100px;
+}
